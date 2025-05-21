@@ -1,8 +1,6 @@
----
-
 # 🛡️ ICMP Flood Detection and Endpoint Monitoring System
-
-This repository implements a basic **EDR (Endpoint Detection and Response)** prototype in a simulated cybersecurity lab environment. It detects **ICMP flood attacks** from malicious nodes (e.g., Kali Linux) and monitors system metrics from endpoints (e.g., Windows 10). The system uses:
+This repository implements a basic **EDR (Endpoint Detection and Response)** prototype in a simulated cybersecurity lab environment. 
+It detects **ICMP flood attacks** from malicious nodes (e.g., Kali Linux) and monitors system metrics from endpoints (e.g., Windows 10). The system uses:
 
 * 🐍 Python + Flask (for backend monitoring and alert dashboard)
 * 📡 Scapy (for ICMP sniffing)
@@ -54,7 +52,7 @@ edr_project/
 1. **Clone or copy all files into a directory**:
 
 ```bash
-git clone <this_repo_url>
+git clone https://github.com/Mohamed-Tarek-MT/Endpoint-Detection-Response.git
 cd edr_project
 ```
 
@@ -184,13 +182,6 @@ Do NOT use `iptables -F` unless you want to flush all firewall rules.
 
 * Alerts are limited to last 100 entries.
 * Metrics are limited to last 1000 entries.
-* Make sure `alerts.json` and `metrics.json` are writable by the Flask app (`chmod 664` or `chown`).
 * Dashboard auto-refreshes every 10 seconds.
-
----
-
-## 📚 Reference
-
-See [`EDR-Steps.txt`](./EDR-Steps.txt) for the full setup history and command log.
 
 ---
