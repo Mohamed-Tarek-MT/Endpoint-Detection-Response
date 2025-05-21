@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EDR Alert Dashboard</title>
+    <meta http-equiv="refresh" content="10">
+    <style>
+        body { font-family: Arial, sans-serif; background: #f0f0f0; padding: 2rem; }
+        h1 { color: #333; }
+        .alert { background: white; padding: 1rem; margin: 0.5rem 0; border-left: 6px solid #d9534f; }
+        .time { font-size: 0.9rem; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>EDR Alerts</h1>
+    <div id="alerts"></div>
+
+    <script>
+        fetch("/alerts")
+            .then(res => res.json())
+            .then(data => {
+                const container = document.getElementById("alerts");
+                container.innerHTML = "";
+                data.reverse().forEach(alert => {
+                    container.innerHTML += `
+                        <div class="alert">
+                            <strong>${alert.message}</strong><br>
+                            IP: ${alert.ip}<br>
+                            <span class="time">${alert.time}</span>
+                        </div>
+                    `;
+                });
+            });
+    </script>
+</body>
+</html>

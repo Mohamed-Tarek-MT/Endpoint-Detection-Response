@@ -1,0 +1,246 @@
+[
+    {
+        "cpu": 12.1,
+        "memory": 42.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:31:23"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 37.5,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:31:54"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 36.4,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:32:25"
+    },
+    {
+        "source_ip": "10.0.0.13",
+        "timestamp": "2025-05-21 01:32:39",
+        "reason": "High ICMP rate: 49 pps",
+        "time": "2025-05-21 01:32:39"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 35.8,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:32:56"
+    },
+    {
+        "cpu": 3.1,
+        "memory": 35.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:33:27"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 35.4,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:33:58"
+    },
+    {
+        "cpu": 39.1,
+        "memory": 51.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:34:29"
+    },
+    {
+        "cpu": 7.7,
+        "memory": 46.1,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:35:01"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 44.8,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:35:32"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 40.2,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:36:03"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 38.4,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:36:34"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 37.7,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:37:05"
+    },
+    {
+        "cpu": 4.6,
+        "memory": 37.0,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:37:36"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 37.1,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:38:07"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 36.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:38:38"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 35.9,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:39:09"
+    },
+    {
+        "cpu": 9.2,
+        "memory": 37.8,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:39:40"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 37.3,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:40:11"
+    },
+    {
+        "cpu": 3.1,
+        "memory": 36.9,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:40:42"
+    },
+    {
+        "cpu": 6.2,
+        "memory": 37.0,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:41:13"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 36.5,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:41:44"
+    },
+    {
+        "cpu": 1.6,
+        "memory": 37.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:42:15"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 36.4,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:42:46"
+    },
+    {
+        "cpu": 90.9,
+        "memory": 40.3,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:43:18"
+    },
+    {
+        "cpu": 3.1,
+        "memory": 42.7,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:43:49"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 40.1,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:44:20"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 38.5,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:44:51"
+    },
+    {
+        "cpu": 6.2,
+        "memory": 37.9,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:45:22"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 37.7,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:45:53"
+    },
+    {
+        "cpu": 6.2,
+        "memory": 37.2,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:46:24"
+    },
+    {
+        "cpu": 1.6,
+        "memory": 35.6,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:46:55"
+    },
+    {
+        "cpu": 1.5,
+        "memory": 36.7,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:47:26"
+    },
+    {
+        "cpu": 10.8,
+        "memory": 39.1,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:47:57"
+    },
+    {
+        "cpu": 0.0,
+        "memory": 38.0,
+        "source_ip": "192.168.100.10",
+        "reason": "Agent metrics update",
+        "time": "2025-05-21 01:48:28"
+    }
+]
