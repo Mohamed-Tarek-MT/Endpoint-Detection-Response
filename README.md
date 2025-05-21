@@ -14,13 +14,12 @@ It detects **ICMP flood attacks** from malicious nodes (e.g., Kali Linux) and mo
 
 ```text
 edr_project/
-├── alerts.json            # Logs of triggered alerts
-├── dashboard.html         # Web dashboard for alert viewing
 ├── edr_monitor.py         # Main ICMP monitoring and blocking engine
 ├── edr_web.py             # Flask app for the EDR web interface
-├── metrics.json           # Endpoint performance metrics (CPU, RAM)
+├── dashboard.html         # Web dashboard for alert viewing
 ├── windows_edr_agent.py   # Agent script to monitor Windows metrics
-├── EDR-Steps.txt          # Setup commands and procedures used
+├── metrics.json           # Endpoint performance metrics (CPU, RAM)
+├── alerts.json            # Logs of triggered alerts
 ```
 
 ---
